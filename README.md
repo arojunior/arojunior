@@ -1,4 +1,4 @@
-# Antonio Roberto De Oliveira Junior
+# Antonio De Oliveira Junior
 
 Senior Software Engineer / Full Stack Developer
 
@@ -15,8 +15,9 @@ Software engineer at EPAM Systems (Poland)
 - I had been in manager position for 6 years, so I feel comfortable as a leader and with more reponsibilities
 
 Programming languages and technologies that I feel comfortable working with:
-- Javascript (NodeJs)
+- Javascript, TypeScript
 - React / React-native (Redux, Storybook, Jest...)
+- NodeJs
 - GraphQL
 - PHP
 - Java (Springboot)
@@ -28,11 +29,14 @@ Programming languages and technologies that I feel comfortable working with:
 
 - Vanilla Js
   - [https://github.com/arojunior/handle-failed-requests-js](https://github.com/arojunior/handle-failed-requests-js)
+  - [https://github.com/arojunior/javascript-search-input](https://github.com/arojunior/javascript-search-input)
 - React
   - [https://github.com/arojunior/react-hooks-composition-proposal](https://github.com/arojunior/react-hooks-composition-proposal)
   - [https://github.com/arojunior/awesome-feed](https://github.com/arojunior/awesome-feed)
+  - [https://github.com/arojunior/react-rss-fetcher](https://github.com/arojunior/react-rss-fetcher)
   - [https://github.com/arojunior/b3-wallet](https://github.com/arojunior/b3-wallet/tree/master/client)
 - React Native
+  - [https://github.com/arojunior/react-native-movie-chat](https://github.com/arojunior/react-native-movie-chat)
   - [https://github.com/arojunior/sample-react-native-expo](https://github.com/arojunior/sample-react-native-expo)
   - [https://github.com/arojunior/tests-with-react-native](https://github.com/arojunior/tests-with-react-native)
 - Redux

@@ -15,7 +15,7 @@ Software engineer at EPAM Systems (Poland)
 - I had been in manager position for 6 years, so I feel comfortable as a leader and with more reponsibilities
 
 Programming languages and technologies that I feel comfortable working with:
-- Javascript, TypeScript
+- Javascript / TypeScript
 - React / React-native (Redux, Storybook, Jest...)
 - NodeJs
 - GraphQL
@@ -24,18 +24,20 @@ Programming languages and technologies that I feel comfortable working with:
 - MySQL
 - SQL Server
 - MongoDb
+- Docker
 
 ### Portfolio
 
 - Vanilla Js
   - [https://github.com/arojunior/handle-failed-requests-js](https://github.com/arojunior/handle-failed-requests-js)
   - [https://github.com/arojunior/javascript-search-input](https://github.com/arojunior/javascript-search-input)
-- React
+- React / Typescript
   - [https://github.com/arojunior/react-hooks-composition-proposal](https://github.com/arojunior/react-hooks-composition-proposal)
   - [https://github.com/arojunior/awesome-feed](https://github.com/arojunior/awesome-feed)
   - [https://github.com/arojunior/react-rss-fetcher](https://github.com/arojunior/react-rss-fetcher)
+  - [https://github.com/arojunior/weather-app-reactjs](https://github.com/arojunior/weather-app-reactjs)
   - [https://github.com/arojunior/b3-wallet](https://github.com/arojunior/b3-wallet/tree/master/client)
-- React Native
+- React Native / Typescript
   - [https://github.com/arojunior/react-native-movie-chat](https://github.com/arojunior/react-native-movie-chat)
   - [https://github.com/arojunior/sample-react-native-expo](https://github.com/arojunior/sample-react-native-expo)
   - [https://github.com/arojunior/tests-with-react-native](https://github.com/arojunior/tests-with-react-native)
@@ -43,9 +45,10 @@ Programming languages and technologies that I feel comfortable working with:
   -  [https://github.com/arojunior/redux-localstore](https://github.com/arojunior/redux-localstore)
   -  [https://github.com/arojunior/fetch-middleware](https://github.com/arojunior/fetch-middleware)
   -  [https://github.com/arojunior/redux-middleware-injector](https://github.com/arojunior/redux-middleware-injector)
-- NodeJs / GraphQL
+- NodeJs / GraphQL / Typescript
   - [https://github.com/arojunior/awesome-feed-server](https://github.com/arojunior/awesome-feed-server)
   - [https://github.com/arojunior/tests-with-nodejs-graphql](https://github.com/arojunior/tests-with-nodejs-graphql)
+  - [https://github.com/arojunior/nestjs-journey-server](https://github.com/arojunior/nestjs-journey-server)
 - PHP
   - [https://github.com/arojunior/barbecue-orders/tree/master/api](https://github.com/arojunior/barbecue-orders/tree/master/api)
   - [https://github.com/arojunior/api-plataform-php-experiments](https://github.com/arojunior/api-plataform-php-experiments)
@@ -55,6 +58,10 @@ Programming languages and technologies that I feel comfortable working with:
   - [https://github.com/arojunior/reactive-spring-experiments](https://github.com/arojunior/reactive-spring-experiments)
 
 ## Job history
+
+`Nov-2019 - Present - EPAM Systems (Poland)`
+
+Role: **Full stack developer**
 
 `Jun-2018 - Oct-2019 - Segware (Brazil)`
 

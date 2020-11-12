@@ -28,6 +28,8 @@ Programming languages and technologies that I feel comfortable working with:
 
 ### Portfolio
 
+[https://github.com/arojunior/](https://github.com/arojunior/)
+
 - Vanilla Js
   - [https://github.com/arojunior/handle-failed-requests-js](https://github.com/arojunior/handle-failed-requests-js)
   - [https://github.com/arojunior/javascript-search-input](https://github.com/arojunior/javascript-search-input)
@@ -56,6 +58,17 @@ Programming languages and technologies that I feel comfortable working with:
 - Java
   - [https://github.com/arojunior/docker-springboot-proxysql](https://github.com/arojunior/docker-springboot-proxysql)
   - [https://github.com/arojunior/reactive-spring-experiments](https://github.com/arojunior/reactive-spring-experiments)
+
+## Articles
+
+[https://medium.com/@arojunior](https://medium.com/@arojunior)
+
+- [Achieve the power of React hooks and composition](https://medium.com/@arojunior/achieve-the-power-of-react-hooks-and-composition-2de6c9ee4706)
+- [The best and easy way to handle database migrations (version control)](https://medium.com/faun/the-best-and-easy-way-to-handle-database-migrations-version-control-c31e4f7b1241)
+- [Stay up to date with what is happening on Github](https://medium.com/@arojunior/stay-up-to-date-with-what-is-happening-on-github-97b1b2c1e449)
+- [Persisting application state with Redux and localStorage](https://medium.com/@arojunior/persisting-application-state-with-redux-and-localstorage-7a498e972c69)
+- [Keep working Offline with Javascript](https://medium.com/@arojunior/keep-working-offline-with-javascript-96c813994c68)
+- [Consuming API with Redux in an elegant way](https://medium.com/@arojunior/consuming-api-with-redux-in-an-elegant-way-74c170eca23e)
 
 ## Job history
 

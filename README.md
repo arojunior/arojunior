@@ -5,19 +5,19 @@ Senior Software Engineer / Full Stack Developer
 [arojunior@gmail.com](arojunior@gmail.com) | +48 510 166 615 | [LinkedIn](https://www.linkedin.com/in/arojunior/) | [Articles](https://medium.com/@arojunior)
 
 ## Currently
-Software engineer at EPAM Systems (Poland)
+Software engineer at AdColony (Poland)
 
 ## About
 
-- I love functional programming
-- The open source community is great and I'm very into it
-- Former ReactJs  meetup organizer in my country (Brazil)
-- I had been in manager position for 6 years, so I feel comfortable as a leader and with more reponsibilities
+Graduated in System Analysis and Development, specialized in Software Engineering.
+Software developer with over 15 years of experience, a specialist in JavaScript.
+
+I had been in a manager position for 6 years, so I feel comfortable as a leader and with more responsibilities.
 
 Programming languages and technologies that I feel comfortable working with:
-- Javascript / TypeScript
-- React / React-native (Redux, Storybook, Jest...)
-- NodeJs
+- JavaScript
+- TypeScript
+- NodeJs, React / React-native (RxJs, Redux, Jest...)
 - GraphQL
 - PHP
 - Java (Springboot)
@@ -25,6 +25,7 @@ Programming languages and technologies that I feel comfortable working with:
 - SQL Server
 - MongoDb
 - Docker
+- AWS
 
 ### Portfolio
 
@@ -72,9 +73,23 @@ Programming languages and technologies that I feel comfortable working with:
 
 ## Job history
 
-`Nov-2019 - Present - EPAM Systems (Poland)`
+`Jav-2021 - Present - AdColony (Poland)`
 
 Role: **Full stack developer**
+
+Project: ​Advertisiment
+
+- Environment:
+NodeJs, React;
+
+`Nov-2019 - Dec-2020 - EPAM Systems (Poland)`
+
+Role: **Full stack developer**
+
+Project: ​Education
+
+- Environment:
+NodeJs, Typescript, React, React-native, Redux, GraphQL;
 
 `Jun-2018 - Oct-2019 - Segware (Brazil)`
 

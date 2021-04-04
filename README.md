@@ -77,7 +77,7 @@ Programming languages and technologies that I feel comfortable working with:
 
 Role: **Full stack developer**
 
-Project: ​Advertisiment
+Project: ​Advertisement
 
 - Environment:
 NodeJs, React;
@@ -168,14 +168,14 @@ Environment:
 
 Role: **IT Analyst / Developer**
 
-Project: Intranet - Tools for internal process optimization, such as salary calculations for HR department, benefits portal, communication between all of the branches of the company's group, stock management for services department, taxes calculations for the accounting department and more.The whole project had more than 20 modules with a variety of tools for each department of the company's group.
+Project: Intranet - Tools for internal process optimization, such as salary calculations for HR department, benefits portal, communication between all of the branches of the company's group, stock management for services department, taxes calculations for the accounting department and more. The whole project had more than 20 modules with a variety of tools for each department of the company's group.
 
 Tasks performed:
-- Analysys of the processes/problems to be solved
+- Analysis of the processes/problems to be solved
 - Development of the solution plan
 - Development of the actual tool to solve the problem/optimize the process
 - Main developer of the project
-- Responsible for the maintanence of the web server
+- Responsible for the maintanence of the webserver
 
 Environment:
 - SQL Server and MySQL

@@ -5,7 +5,7 @@ Senior Software Engineer / Full Stack Developer
 [arojunior@gmail.com](arojunior@gmail.com) | +55 48984047603 | [LinkedIn](https://www.linkedin.com/in/arojunior/) | [Articles](https://medium.com/@arojunior)
 
 ## Currently
-Software engineer at AdColony (Poland)
+Software engineer at AdColony (A Digital Turbine Company)
 
 ## About
 
@@ -73,7 +73,7 @@ Programming languages and technologies that I feel comfortable working with:
 
 ## Job history
 
-`Jav-2021 - Present - AdColony (Poland)`
+`Jan-2021 - Present - AdColony (A Digital Turbine Company)`
 
 Role: **Full stack developer**
 

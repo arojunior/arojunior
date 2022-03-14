@@ -2,7 +2,7 @@
 
 Senior Software Engineer / Full Stack Developer
 
-[arojunior@gmail.com](arojunior@gmail.com) | +48 510 166 615 | [LinkedIn](https://www.linkedin.com/in/arojunior/) | [Articles](https://medium.com/@arojunior)
+[arojunior@gmail.com](arojunior@gmail.com) | +55 48984047603 | [LinkedIn](https://www.linkedin.com/in/arojunior/) | [Articles](https://medium.com/@arojunior)
 
 ## Currently
 Software engineer at AdColony (Poland)
